@@ -2,6 +2,8 @@
 
 **Whoizio** is a simple yet powerful PHP web application that allows you to retrieve domain registration information (WHOIS), IP address details, and lifecycle data for a domain (if it expires). This tool leverages the **ip2location.io** API to provide domain ownership information, IP geolocation, network details, and more.
 
+<img src="Whoizio.png" alt="Whoizio Screenshot" style="border: 2px solid #000; padding: 5px;">
+
 ## Features
 
 - **Domain WHOIS Information**: View domain registration details including the registrar, creation date, update date, and expiration date.
