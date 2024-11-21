@@ -17,7 +17,7 @@
 
         <?php
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-            $apiKey = "BB75B4964B01ADF79A0EB8042130FCBC"; // Ganti dengan API Key Anda
+            $apiKey = "GHAGSGA667DS76DSDHGDS655SDGSGDHSH"; // Your API Key
             $domain = trim($_POST['domain']);
             if (!empty($domain)) {
                 $apiUrl = "https://api.ip2whois.com/v2?key=" . urlencode($apiKey) . "&domain=" . urlencode($domain);
